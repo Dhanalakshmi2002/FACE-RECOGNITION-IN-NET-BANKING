@@ -1,0 +1,4 @@
+# FACE-RECOGNITION-IN-NET-BANKING
+ In the current scenario,Online transactions have ended up a commonplace fashion now-a-days and security related to the identical is turning into a difficulty.
+Face is an included internal organ whose random texture is complex, particular, and very stable at some stage in lifestyles, it can serve as a kind of living passport or password that one no longer to be remembered however can usually be a gift. So face popularity is one efficient manner of securing online transactions
+In the current world of advanced technology, it is easy for hackers to get personal details of users because of which some people are hesitant to use online transactions. This makes security an important factor at the time of making digital payments. Hence, we propose a system to enhance the security of online transactions by providing a 2-step verification process: OTP verification followed by Facial Recognition.
